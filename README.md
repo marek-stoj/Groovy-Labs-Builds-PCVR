@@ -3,7 +3,7 @@
 Go to [Releases](https://github.com/marek-stoj/Groovy-Labs-Builds-PCVR/releases) to download the game directly (EXE).
 
 _NOTE: Builds for Meta Quest are in a different repository: [Groovy-Labs-Builds](https://github.com/marek-stoj/Groovy-Labs-Builds)._ \
-_NOTE: Builds for PICO are in a different repository: [Groovy-Labs-Builds](https://github.com/marek-stoj/Groovy-Labs-Builds-Pico)._
+_NOTE: Builds for PICO are in a different repository: [Groovy-Labs-Builds-Pico](https://github.com/marek-stoj/Groovy-Labs-Builds-Pico)._
 
 ## What is Groovy Labs?
 
